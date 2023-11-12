@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LESD5D5.0CT1G")(type "KiCad")(uri "/home/juanse/Documents/kicad/esp32_s3_devkitc/resources/LESD5D5.0CT1G/LESD5D5.0CT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "1N5819HW-7-F")(type "KiCad")(uri "/home/juanse/Documents/kicad/esp32_s3_devkitc/resources/1N5819HW-7-F/1N5819HW-7-F.kicad_sym")(options "")(descr ""))
+  (lib (name "10118194-0001LF")(type "KiCad")(uri "/home/juanse/Documents/kicad/esp32_s3_devkitc/resources/10118194-0001LF/10118194-0001LF.kicad_sym")(options "")(descr ""))
+  (lib (name "TL1107BF130WQ")(type "KiCad")(uri "/home/juanse/Documents/kicad/esp32_s3_devkitc/resources/TL1107BF130WQ/TL1107BF130WQ.kicad_sym")(options "")(descr ""))
+)
