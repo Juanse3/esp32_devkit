@@ -9,10 +9,10 @@
     "net_color_mode": 1,
     "opacity": {
       "images": 0.0,
-      "pads": 0.6000000238418579,
-      "tracks": 0.3499999940395355,
-      "vias": 0.5400000214576721,
-      "zones": 0.9100000262260437
+      "pads": 0.47999998927116394,
+      "tracks": 0.4699999988079071,
+      "vias": 0.47999998927116394,
+      "zones": 0.47999998927116394
     },
     "selection_filter": {
       "dimensions": true,
@@ -37,6 +37,7 @@
       9,
       10,
       11,
+      12,
       13,
       15,
       16,
@@ -60,7 +61,7 @@
       36,
       40
     ],
-    "visible_layers": "803d0f0_ffffffff",
+    "visible_layers": "801d050_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
